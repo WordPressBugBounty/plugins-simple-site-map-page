@@ -1,9 +1,9 @@
 === Simple Site Map Page ===
 Contributors: audrasjb,whodunitagency
 Donate link: https://www.paypal.me/audrasjb
-Tags: site map, site map page, html site map, plan du site, plan de site, html, map, site, sitemap, menu
+Tags: site map, site map page, html site map, sitemap
 Requires at least: 5.3
-Tested up to: 6.4
+Tested up to: 6.8
 Requires PHP: 5.6
 Stable tag: 1.2.2
 License: GPLv2
