@@ -3,7 +3,7 @@ Contributors: audrasjb,whodunitagency
 Donate link: https://www.paypal.me/audrasjb
 Tags: site map, site map page, html site map, sitemap
 Requires at least: 5.3
-Tested up to: 6.8
+Tested up to: 6.9
 Requires PHP: 5.6
 Stable tag: 1.2.2
 License: GPLv2
